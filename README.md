@@ -12,6 +12,7 @@ chmod +x Eagle-Eye
     
 Usage: ./Eagle-Eye.sh <TARGET-IP> <TYPE>
 
+
 Scan Types:
 
 	Quick:	Shows all open ports quickly (~15 seconds)
