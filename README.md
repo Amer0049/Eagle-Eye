@@ -3,7 +3,7 @@ Port Scanner for Pentesting
    
    "Installation"
    
-git clone https://github.com/mimo0049/Eagle-Eye.git
+git clone https://github.com/Amer0049/Eagle-Eye.git
 
 cd Eagle-Eye
 
