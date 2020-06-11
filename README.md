@@ -9,7 +9,6 @@ cd Eagle-Eye
 
 chmod +x Eagle-Eye
     
-    "Usage"
     
 Usage: ./Eagle-Eye.sh <TARGET-IP> <TYPE>
 
