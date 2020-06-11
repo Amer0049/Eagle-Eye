@@ -10,7 +10,7 @@ cd Eagle-Eye
 chmod +x Eagle-Eye
     
     
-Usage: ./Eagle-Eye.sh <TARGET-IP> <TYPE>
+Usage: ./Eagle-Eye.sh 1.1.1.1 quick
 
 
 Scan Types:
